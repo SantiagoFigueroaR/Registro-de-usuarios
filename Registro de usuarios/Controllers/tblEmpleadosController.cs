@@ -9,6 +9,7 @@ using System.Web.Mvc;
 using Registro_de_usuarios;
 
 namespace Registro_de_usuarios.Controllers
+//santiago prueba
 {
     public class tblEmpleadosController : Controller
     {
